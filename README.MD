@@ -1,0 +1,1 @@
+Simple status cheker, here was used channels , for interrupt app press control+C (mac)
